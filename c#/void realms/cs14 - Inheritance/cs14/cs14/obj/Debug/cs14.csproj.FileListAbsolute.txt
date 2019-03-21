@@ -1,0 +1,7 @@
+F:\Work\c#\resources\void realms\cs14 - Inheritance\cs14\cs14\bin\Debug\cs14.exe.config
+F:\Work\c#\resources\void realms\cs14 - Inheritance\cs14\cs14\bin\Debug\cs14.exe
+F:\Work\c#\resources\void realms\cs14 - Inheritance\cs14\cs14\bin\Debug\cs14.pdb
+F:\Work\c#\resources\void realms\cs14 - Inheritance\cs14\cs14\obj\Debug\cs14.csprojAssemblyReference.cache
+F:\Work\c#\resources\void realms\cs14 - Inheritance\cs14\cs14\obj\Debug\cs14.csproj.CoreCompileInputs.cache
+F:\Work\c#\resources\void realms\cs14 - Inheritance\cs14\cs14\obj\Debug\cs14.exe
+F:\Work\c#\resources\void realms\cs14 - Inheritance\cs14\cs14\obj\Debug\cs14.pdb

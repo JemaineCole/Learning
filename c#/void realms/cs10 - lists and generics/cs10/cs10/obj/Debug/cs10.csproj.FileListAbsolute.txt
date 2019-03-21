@@ -1,0 +1,7 @@
+F:\Work\c#\resources\void realms\cs10 - lists and generics\cs10\cs10\bin\Debug\cs10.exe.config
+F:\Work\c#\resources\void realms\cs10 - lists and generics\cs10\cs10\bin\Debug\cs10.exe
+F:\Work\c#\resources\void realms\cs10 - lists and generics\cs10\cs10\bin\Debug\cs10.pdb
+F:\Work\c#\resources\void realms\cs10 - lists and generics\cs10\cs10\obj\Debug\cs10.csprojAssemblyReference.cache
+F:\Work\c#\resources\void realms\cs10 - lists and generics\cs10\cs10\obj\Debug\cs10.csproj.CoreCompileInputs.cache
+F:\Work\c#\resources\void realms\cs10 - lists and generics\cs10\cs10\obj\Debug\cs10.exe
+F:\Work\c#\resources\void realms\cs10 - lists and generics\cs10\cs10\obj\Debug\cs10.pdb

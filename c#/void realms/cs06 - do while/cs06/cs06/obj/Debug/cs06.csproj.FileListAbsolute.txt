@@ -1,0 +1,7 @@
+F:\Work\c#\resources\void realms\cs06 - do while\cs06\cs06\bin\Debug\cs06.exe.config
+F:\Work\c#\resources\void realms\cs06 - do while\cs06\cs06\bin\Debug\cs06.exe
+F:\Work\c#\resources\void realms\cs06 - do while\cs06\cs06\bin\Debug\cs06.pdb
+F:\Work\c#\resources\void realms\cs06 - do while\cs06\cs06\obj\Debug\cs06.csprojAssemblyReference.cache
+F:\Work\c#\resources\void realms\cs06 - do while\cs06\cs06\obj\Debug\cs06.csproj.CoreCompileInputs.cache
+F:\Work\c#\resources\void realms\cs06 - do while\cs06\cs06\obj\Debug\cs06.exe
+F:\Work\c#\resources\void realms\cs06 - do while\cs06\cs06\obj\Debug\cs06.pdb

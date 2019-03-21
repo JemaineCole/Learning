@@ -1,0 +1,6 @@
+F:\Work\c#\resources\void realms\cs09 - arrays\cs09\cs09\obj\Debug\cs09.csproj.CoreCompileInputs.cache
+F:\Work\c#\resources\void realms\cs09 - arrays\cs09\cs09\bin\Debug\cs09.exe.config
+F:\Work\c#\resources\void realms\cs09 - arrays\cs09\cs09\bin\Debug\cs09.exe
+F:\Work\c#\resources\void realms\cs09 - arrays\cs09\cs09\bin\Debug\cs09.pdb
+F:\Work\c#\resources\void realms\cs09 - arrays\cs09\cs09\obj\Debug\cs09.exe
+F:\Work\c#\resources\void realms\cs09 - arrays\cs09\cs09\obj\Debug\cs09.pdb

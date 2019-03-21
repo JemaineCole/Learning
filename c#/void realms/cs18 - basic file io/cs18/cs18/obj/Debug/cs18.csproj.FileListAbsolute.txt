@@ -1,0 +1,7 @@
+F:\Work\c#\resources\void realms\cs18 - basic file io\cs18\cs18\bin\Debug\cs18.exe.config
+F:\Work\c#\resources\void realms\cs18 - basic file io\cs18\cs18\bin\Debug\cs18.exe
+F:\Work\c#\resources\void realms\cs18 - basic file io\cs18\cs18\bin\Debug\cs18.pdb
+F:\Work\c#\resources\void realms\cs18 - basic file io\cs18\cs18\obj\Debug\cs18.csprojAssemblyReference.cache
+F:\Work\c#\resources\void realms\cs18 - basic file io\cs18\cs18\obj\Debug\cs18.csproj.CoreCompileInputs.cache
+F:\Work\c#\resources\void realms\cs18 - basic file io\cs18\cs18\obj\Debug\cs18.exe
+F:\Work\c#\resources\void realms\cs18 - basic file io\cs18\cs18\obj\Debug\cs18.pdb

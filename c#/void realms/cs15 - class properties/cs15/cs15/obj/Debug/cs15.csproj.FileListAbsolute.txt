@@ -1,0 +1,7 @@
+F:\Work\c#\resources\void realms\cs15 class properties\cs15\cs15\bin\Debug\cs15.exe.config
+F:\Work\c#\resources\void realms\cs15 class properties\cs15\cs15\bin\Debug\cs15.exe
+F:\Work\c#\resources\void realms\cs15 class properties\cs15\cs15\bin\Debug\cs15.pdb
+F:\Work\c#\resources\void realms\cs15 class properties\cs15\cs15\obj\Debug\cs15.csprojAssemblyReference.cache
+F:\Work\c#\resources\void realms\cs15 class properties\cs15\cs15\obj\Debug\cs15.csproj.CoreCompileInputs.cache
+F:\Work\c#\resources\void realms\cs15 class properties\cs15\cs15\obj\Debug\cs15.exe
+F:\Work\c#\resources\void realms\cs15 class properties\cs15\cs15\obj\Debug\cs15.pdb

@@ -1,0 +1,6 @@
+F:\Work\c#\resources\void realms\cs08 - foreach\cs08\cs08\bin\Debug\cs08.exe.config
+F:\Work\c#\resources\void realms\cs08 - foreach\cs08\cs08\bin\Debug\cs08.exe
+F:\Work\c#\resources\void realms\cs08 - foreach\cs08\cs08\bin\Debug\cs08.pdb
+F:\Work\c#\resources\void realms\cs08 - foreach\cs08\cs08\obj\Debug\cs08.csproj.CoreCompileInputs.cache
+F:\Work\c#\resources\void realms\cs08 - foreach\cs08\cs08\obj\Debug\cs08.exe
+F:\Work\c#\resources\void realms\cs08 - foreach\cs08\cs08\obj\Debug\cs08.pdb

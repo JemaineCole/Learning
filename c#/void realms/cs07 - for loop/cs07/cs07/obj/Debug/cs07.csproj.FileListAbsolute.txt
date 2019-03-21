@@ -1,0 +1,6 @@
+F:\Work\c#\resources\void realms\cs07 - for loop\cs07\cs07\bin\Debug\cs07.exe.config
+F:\Work\c#\resources\void realms\cs07 - for loop\cs07\cs07\bin\Debug\cs07.exe
+F:\Work\c#\resources\void realms\cs07 - for loop\cs07\cs07\bin\Debug\cs07.pdb
+F:\Work\c#\resources\void realms\cs07 - for loop\cs07\cs07\obj\Debug\cs07.csproj.CoreCompileInputs.cache
+F:\Work\c#\resources\void realms\cs07 - for loop\cs07\cs07\obj\Debug\cs07.exe
+F:\Work\c#\resources\void realms\cs07 - for loop\cs07\cs07\obj\Debug\cs07.pdb

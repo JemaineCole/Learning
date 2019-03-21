@@ -1,0 +1,7 @@
+F:\Work\c#\resources\void realms\cs19 - file streams\cs19\cs19\bin\Debug\cs19.exe.config
+F:\Work\c#\resources\void realms\cs19 - file streams\cs19\cs19\bin\Debug\cs19.exe
+F:\Work\c#\resources\void realms\cs19 - file streams\cs19\cs19\bin\Debug\cs19.pdb
+F:\Work\c#\resources\void realms\cs19 - file streams\cs19\cs19\obj\Debug\cs19.csprojAssemblyReference.cache
+F:\Work\c#\resources\void realms\cs19 - file streams\cs19\cs19\obj\Debug\cs19.csproj.CoreCompileInputs.cache
+F:\Work\c#\resources\void realms\cs19 - file streams\cs19\cs19\obj\Debug\cs19.exe
+F:\Work\c#\resources\void realms\cs19 - file streams\cs19\cs19\obj\Debug\cs19.pdb

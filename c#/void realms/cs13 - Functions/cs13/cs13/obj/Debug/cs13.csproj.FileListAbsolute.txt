@@ -1,0 +1,7 @@
+F:\Work\c#\resources\void realms\cs13 - Functions\cs13\cs13\bin\Debug\cs13.exe.config
+F:\Work\c#\resources\void realms\cs13 - Functions\cs13\cs13\bin\Debug\cs13.exe
+F:\Work\c#\resources\void realms\cs13 - Functions\cs13\cs13\bin\Debug\cs13.pdb
+F:\Work\c#\resources\void realms\cs13 - Functions\cs13\cs13\obj\Debug\cs13.csprojAssemblyReference.cache
+F:\Work\c#\resources\void realms\cs13 - Functions\cs13\cs13\obj\Debug\cs13.csproj.CoreCompileInputs.cache
+F:\Work\c#\resources\void realms\cs13 - Functions\cs13\cs13\obj\Debug\cs13.exe
+F:\Work\c#\resources\void realms\cs13 - Functions\cs13\cs13\obj\Debug\cs13.pdb
