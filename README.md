@@ -1,3 +1,3 @@
 # Learning
 
-source code and projects for tutorials
+source code for tutorials
